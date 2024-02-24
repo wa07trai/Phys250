@@ -1,1 +1,8 @@
+# Oscillatory Motion and Chaos
+
+## Euler Method & Euler-Cromer Method of Approximation for SHM
+
+In a program ultilizing the euler method of approximation for SHM with multiple periods, the program will begin to produce errors of increasing magnitude.
+As t continues, the amplitude and energy of the system will increase continuously.
+The reason for this behavior stems from the way the system is coded. Firstly consider the eqution: $\frac{\omega}{dt}=-\frac{g}{l}*{\theta}
 
